@@ -1,0 +1,17 @@
+  body {
+    background-color: #00b388;
+  }
+  hr {
+    background-color: #425563;
+    border-style: dotted;
+  }
+  img {
+    height: 100px;
+  }
+  h1 {
+    text-align: center;
+    color: #425563;
+  }
+  h2 {
+    color: #00000;
+  }
